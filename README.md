@@ -12,7 +12,7 @@ This is an experimental.
 # Setup
 
 ## 1. Install emacs
-Just get the windows binary.
+Just get the windows binary.  
 http://ftp.gnu.org/gnu/emacs/windows/emacs-26/
 
 ## 2. package setting
