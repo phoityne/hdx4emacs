@@ -40,12 +40,14 @@ Install lsp-mode and dap-mode from melpa.
 
 ```
 > stack install haskell-dap ghci-dap haskell-debug-adapter
-  !! current version not work.
-     get new one from github.
+
 >
 ```
 
 ## 5. Prepare load el
+
+[see sample files.](https://github.com/phoityne/hdx4emacs/tree/master/config)
+
 sample/hdx4emacs.el
 ```
 (require 'dap-mode)
